@@ -26,7 +26,7 @@ function Home2() {
                             As a person who is not afraid of difficulties at work, {" "} 
                             <i>
                                 <b className="purple">ready</b>
-                            </i> to learn new knowledge if necessary
+                            </i> to learn new knowledge everytime everywhere.
                             <br />
                             <br />
                             <i>
