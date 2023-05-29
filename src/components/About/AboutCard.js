@@ -7,10 +7,11 @@ function AboutCard() {
         <Card className="quote-card-view">
             <Card.Body>
                 <blockquote className="blockquote mb-0">
-                    <p style={{ textAlign: "justify" }}>
+                    <p style={{ textAlign: "justify" }} className="mb-0">
                         Hi Everyone, I am <span className="purple">Nguyen Vo Song Toan </span>
                         from <span className="purple"> Ho Chi Minh, Vietnam</span>
-                        <br />I am a student at HCMC University of Technology and Education
+                        <br />I am a final-year student at HCMC University of Technology and Education
+                        <br />I am a FullStack Developer. Seeking opportunities to gain experience and enhance skills.
                         <br />
                         <br />
                         Apart from coding, some other activities that I love to do!
