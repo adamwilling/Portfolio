@@ -22,7 +22,7 @@ function Home2() {
 							<div className='row'>
 								<div className='col-md-12' style={{ textAlign: "justify" }}>
 									<h1 className='display-4'>
-										LET ME <span className='text-primary'>INTRODUCE</span>{" "}
+										LET ME <span className='purple'>INTRODUCE</span>{" "}
 										MYSELF
 									</h1>
 									<p className='lead'>
