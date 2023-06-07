@@ -31,6 +31,7 @@ function ResumeNew() {
                 <Row className="resume">
                     <Document file={resumeLink} className="d-flex flex-column justify-content-center align-items-center">
                         <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} className="col" />
+                        <Page pageNumber={2} scale={width > 786 ? 1.7 : 0.6} className="col" />
                     </Document>
                 </Row>
 
